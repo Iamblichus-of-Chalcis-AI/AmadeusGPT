@@ -1,0 +1,11 @@
+# This environment can be used to install amadeusGPT
+name: amadeusgpt
+channels:
+    - defaults
+dependencies:
+    - python==3.10
+    - pytables==3.8.0
+    - hdf5
+    - jupyter
+    - pip:
+      - amadeusgpt

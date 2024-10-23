@@ -1,0 +1,10 @@
+[
+    {
+        "role": "human",
+        "query": "plot trajectory of the animal"
+    },
+    {
+        "role": "human",
+        "query": " Make a 3D CEBRA embedding and plot the embedding "
+    }
+]
